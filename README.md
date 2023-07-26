@@ -129,4 +129,4 @@ torchrun --nnodes=1 --node_rank=0 --nproc_per_node=8 \
 
 ## 微信交流群
 
-<img src=".github/QRcode.jpg" alt="微信交流群" width="300"/>
+<img src=".github/微信图片_20230726103047.jpg" alt="微信交流群" width="300"/>
