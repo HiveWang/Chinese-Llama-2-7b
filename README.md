@@ -1,4 +1,4 @@
-# Chinese Llama 2 7B
+# Chinese_Llama_2-7B
 
 [![](https://img.shields.io/badge/LLaMA2-Chinese-blue)](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) [![](https://img.shields.io/badge/Commercial-Support-blue)](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) [![](https://img.shields.io/badge/License-Apache_v2-blue)](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b/blob/main/LICENSE) [![](https://img.shields.io/badge/HuggingFace-Live_Demo-green)](https://huggingface.co/spaces/LinkSoul/Chinese-Llama-2-7b) [![](https://img.shields.io/badge/Datasets-instruction_merge_set-blue)](https://huggingface.co/datasets/LinkSoul/instruction_merge_set)
 
